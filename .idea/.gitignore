@@ -11,7 +11,6 @@
 *.class
 out/
 target/
-.iml
 # Log file
 *.log
 
